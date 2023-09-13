@@ -1,0 +1,14 @@
+{
+    "name": "hp/chd-task",
+    "autoload": {
+        "psr-4": {
+            "ChdTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {}
+}
